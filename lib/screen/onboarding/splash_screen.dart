@@ -27,8 +27,8 @@
  */
 
 import 'package:flutter/material.dart';
-import 'package:supabase_playground/core/supabase/auth_state.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:supabase_playground/core/supabase/auth_state.dart';
 import 'package:supabase_playground/values/app_colors.dart';
 import 'package:supabase_playground/values/assets.dart';
 

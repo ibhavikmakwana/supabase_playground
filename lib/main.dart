@@ -35,7 +35,6 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:supabase_playground/configure_main_app.dart';
 import 'package:supabase_playground/main_store.dart';
 import 'package:supabase_playground/route_generator.dart';
-import 'package:supabase_playground/screen/onboarding/splash_screen.dart';
 import 'package:supabase_playground/values/routes.dart';
 import 'package:supabase_playground/values/theme.dart';
 
@@ -74,7 +73,7 @@ class MyApp extends StatelessWidget {
         );
         return child!;
       },
-      home: SplashScreen(),
+      //home: SplashScreen(),
     );
   }
 }

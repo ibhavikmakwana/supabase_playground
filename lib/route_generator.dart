@@ -33,6 +33,7 @@ import 'package:supabase_playground/screen/onboarding/splash_screen.dart';
 
 import 'values/routes.dart';
 
+// ignore: avoid_classes_with_only_static_members
 class RouteGenerator {
   static Route<dynamic> generateRoute(RouteSettings settings) {
     // ignore: unused_local_variable
